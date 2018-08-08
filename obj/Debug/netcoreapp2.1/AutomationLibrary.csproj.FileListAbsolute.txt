@@ -1,0 +1,14 @@
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\obj\Debug\netcoreapp2.1\AutomationLibrary.csprojAssemblyReference.cache
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\obj\Debug\netcoreapp2.1\AutomationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\obj\Debug\netcoreapp2.1\AutomationLibrary.AssemblyInfoInputs.cache
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\obj\Debug\netcoreapp2.1\AutomationLibrary.AssemblyInfo.cs
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\AutomationLibrary.deps.json
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\AutomationLibrary.runtimeconfig.json
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\AutomationLibrary.runtimeconfig.dev.json
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\AutomationLibrary.dll
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\bin\Debug\netcoreapp2.1\AutomationLibrary.pdb
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\obj\Debug\netcoreapp2.1\AutomationLibrary.dll
+C:\Users\ignacio.agostini\Documents\AutomationLibrary\obj\Debug\netcoreapp2.1\AutomationLibrary.pdb
